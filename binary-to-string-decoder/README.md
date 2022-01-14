@@ -12,6 +12,12 @@ Display decoded message to user.
 - [ASCII Tables](https://www.ascii-code.com/)
 - [Python Documentation](https://docs.python.org/3/)
 
+### Python Software
+- [Google Colab](https://research.google.com/colaboratory/edu.html)
+- [Python](https://www.python.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Online Python Compiler](https://www.w3schools.com/python/trypython.asp?filename=demo_compiler)
+
 ### ASCII Table
 | Binary  | Character |
 |:--------|----------:|
